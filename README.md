@@ -34,6 +34,23 @@ There are various types of testing that are used in software development. Here a
 
 **Performance Testing**: Testing to ensure that the system meets performance requirements and can handle expected levels of traffic.
 
+### What is Test Case?
+
+A test case is a set of instructions that defines a particular test scenario, including the input data, expected output, and any pre- or post-conditions.
+
+### Overview of the Test Suite
+
+A test suite is a collection of test cases that are grouped together for a specific purpose, such as testing a particular feature or module.
+
+### Test Fixtures
+
+A test fixture is the preparation work that is required before running a test case, and the cleanup work that is required after the test case has run
+
+
+### Skipping Tests
+
+A skipped test case is a test case that is not run because is is currently not implemented or because it is not applicable in the current environment.
+
 
 ## Bash Environment Commands
 

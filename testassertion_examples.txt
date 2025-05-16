@@ -1,0 +1,26 @@
+assertEqual()           --> Test if two values are equal
+assertNotEqual()        --> Test if two values are not equal
+assertTrue ()           --> Test if a condition is True
+assertFalse()           --> Test if a condition is False
+assertIs()              --> Test if two objects are the same object
+assertIsNot()           --> Test if two objects are not the same object
+assertIsNone()          --> Test if an object is None
+assertIsNotNone()       --> Test if an object is not None
+assertIn()              --> Test if a value is in a given iterable
+assertNotIn()           --> Test if a value is not in a given iterable
+assertIsInstance()      --> Test if an object is an instance of a given class
+assertNotIsInstance()   --> Test if an object is not an instance of a given class
+assertAlmostEqual()     --> Test if two floating point values are approximately equal
+assertNotAlmostEqual()  --> Test if two floating point values are not approximately equal
+assertGreater()         --> Test if first argument greater than the second argument
+assertGreaterEqual()    --> Test if first argument greater than or equal to the second argument
+assertLess()            --> Test if first argument is less than the second argument
+assertLessEqual()       --> Test if first argument is less than or equal to the second argument
+assertRegex()           --> Test if a Regular Expression matches a string
+assertNotRegex()        --> Test if a Regular Expression does not match a string
+assertCountEqual()      --> Test if two iterables contain the same elements in the same order
+assertMultiLineEqual()  --> Test if two multi-line strings are equal, ignoring leading/trailing whitespace and line endings
+assertSequenceEqual()   --> Test if two sequences are equal
+assertListEqual()       --> Test if two lists are equal
+assertTupleEqual()      --> Test if two tuples are equal
+assertSetEqual()        --> Test if two sets are equal
