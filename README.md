@@ -57,6 +57,8 @@ A skipped test case is a test case that is not run because is is currently not i
 ![image](https://github.com/user-attachments/assets/c05e4a5b-5480-421e-b981-f1fb51f2e6a9)
 
 
+### What is MOCK, PATCH & MAGIC MOCK and How to use it?
+
 
 
 ## Bash Environment Commands
