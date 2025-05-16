@@ -2,7 +2,8 @@
 
 Unit testing is a software testing technique that involves testing individual units is the smallest testable part of an application, such as a function, method, or class. By testing units in isolation from the rest of the application, developers can catch and fix bugs earlier in the development process and ensure that the code is reliable and maintainable.
 
-UNIT TEST LIFE CYCLE
+![image](https://github.com/user-attachments/assets/a244664f-74c2-4682-b211-7dc216dc636d)
+
 
 ## Why Unit Testing is important
 
