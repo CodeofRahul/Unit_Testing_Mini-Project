@@ -19,4 +19,8 @@ class TestStringMethods(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    suite = unittest.TestSuite()
+    suite.addTest(TestStringMethods('test_upper'))
+    suite.addTest(TestStringMethods('test_isupper'))
+    suite.addTest(TestStringMethods('test_split'))
+    unittest.TextTestRunner().run(suite)
